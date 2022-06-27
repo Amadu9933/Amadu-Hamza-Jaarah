@@ -1,0 +1,43 @@
+.main {
+    display: block;
+    border-style: outset;
+    max-width: 170px;
+    padding: 10px 10px 20px 30px;
+    border-bottom-right-radius: 30px;
+    border-top-left-radius: 30px;
+    background-color: black;
+    
+}
+.calc {
+    background-color: aqua;
+}
+input[type=none] {
+  width: 80%;
+  padding: 4px 0 8px 22px;
+   border-radius: 12px; 
+ border-style: inset;   
+}
+.input-container{
+    padding: 5px;
+}
+.numb{
+    padding: 6px;
+    width: 20%;
+    margin: 0 1px 0 1px;
+    border-radius: 12px;
+    background-color: lightblue
+}
+h4{
+  text-shadow: 1px 1px 1px white;
+    margin: ;
+    text-align: center;
+}
+P{
+  text-shadow: 2px 2px 6px white;
+    margin: 0 0 0 12px
+}
+body {
+    margin-left: 340px;
+    margin-top: 120px;
+    background-color: gray
+}
